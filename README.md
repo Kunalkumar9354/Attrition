@@ -30,9 +30,11 @@ In our ongoing commitment to foster a thriving and equitable workplace, we've de
 - Disparities in gender distribution across departments.
 - Ensuring equal opportunities for career growth is a priority.
 
-In summary, these insights provide a strong foundation for further analysis and action. It's crucial that we conduct comprehensive surveys and assessments to gain a deeper understanding of the factors at play. Armed with this knowledge, we can develop targeted retention strategies that drive lasting change, reduce attrition, rectify income disparities, and promote gender and age-related equality within our organization.
 
-Let's embark on this journey together towards a more inclusive, equitable, and thriving workplace! 💪 #DataDrivenChange #WorkplaceEquality #OrganizationalGrowth
 
+
+
+
+https://github.com/Kunalkumar9354/Attrition/assets/136789814/f03f64f4-89a0-4eb5-8278-dca71639eb03
 
 
